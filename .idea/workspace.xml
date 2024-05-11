@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71d3b59c-853c-4e1c-b479-0e7470001815" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfomer/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfomer/model/attention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfomer/model/embedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfomer/model/informer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfomer/module/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfomer/module/trans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfomer/trans_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfomer/utils/masking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN-BiLSTM-Attention-Time-Series-Prediction_Keras" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/CNN-BiLSTM-Attention.py" beforeDir="false" afterPath="$PROJECT_DIR$/transfomer/tcn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/attention包使用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/attention包使用2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/transfomer/model/tcn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/lstm-single.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/raw.githubusercontent.com/hfawaz/cd-diagram/master/FordA/FordA_TEST.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/raw.githubusercontent.com/hfawaz/cd-diagram/master/FordA/FordA_TRAIN.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/res-tcn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/transfomer-keras.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/ts-trans-keras.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/ts-trans.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/utils/attention_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/utils/dataProcessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/transfomer/utils/dataProcessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/utils/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/transfomer/utils/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/utils/embeding.py" beforeDir="false" afterPath="$PROJECT_DIR$/transfomer/utils/embeding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/utils/plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/transfomer/utils/plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/transfomer/utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/image-20230901093735362-16935341556952.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/image-20230901093735362.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2XZn6xt3i9LBks2wg3QECyWl5GO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workplace\pycharm\work1" />
+      <recent name="C:\workplace\pycharm\work1\main" />
+      <recent name="C:\workplace\pycharm\work\data\agriculture" />
+      <recent name="C:\workplace\pycharm\work\work1\model" />
+      <recent name="C:\workplace\pycharm\work\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workplace\pycharm\work\multi-step" />
+      <recent name="C:\workplace\pycharm\work\multi-step\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.参考文献排序2">
+    <configuration name="参考文献排序2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/参考文献排序2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset1-DL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/dataset1-DL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset2-DL (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/dataset2-DL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset2-ML (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/dataset2-ML.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my-informer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amaz-informer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amaz-informer/my-informer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.参考文献排序2" />
+        <item itemvalue="Python.my-informer" />
+        <item itemvalue="Python.dataset1-DL" />
+        <item itemvalue="Python.dataset2-DL (1)" />
+        <item itemvalue="Python.dataset2-ML (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71d3b59c-853c-4e1c-b479-0e7470001815" name="Changes" comment="" />
+      <created>1698845298114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698845298114</updated>
+      <workItem from="1698845299312" duration="55692000" />
+      <workItem from="1699167779720" duration="110910000" />
+      <workItem from="1700270192926" duration="33282000" />
+      <workItem from="1701398298986" duration="145000" />
+      <workItem from="1705845723602" duration="175000" />
+      <workItem from="1706263671543" duration="12281000" />
+      <workItem from="1706336976771" duration="1860000" />
+      <workItem from="1706426216150" duration="7000" />
+      <workItem from="1707101334766" duration="5729000" />
+      <workItem from="1707829933363" duration="3663000" />
+      <workItem from="1708053685945" duration="810000" />
+      <workItem from="1708091225402" duration="58083000" />
+      <workItem from="1708566614942" duration="7131000" />
+      <workItem from="1708612967175" duration="692000" />
+      <workItem from="1709047431826" duration="6642000" />
+      <workItem from="1709305860156" duration="2691000" />
+      <workItem from="1709341486362" duration="11136000" />
+      <workItem from="1709432427050" duration="1924000" />
+      <workItem from="1709434503612" duration="2000" />
+      <workItem from="1709434519726" duration="425000" />
+      <workItem from="1709434952000" duration="3121000" />
+      <workItem from="1709451236140" duration="8267000" />
+      <workItem from="1709537707158" duration="699000" />
+      <workItem from="1710252512362" duration="7122000" />
+      <workItem from="1710384017909" duration="4769000" />
+      <workItem from="1710470669788" duration="443000" />
+      <workItem from="1710472565034" duration="3565000" />
+      <workItem from="1710574617849" duration="7165000" />
+      <workItem from="1710636988110" duration="21064000" />
+      <workItem from="1710727089441" duration="6843000" />
+      <workItem from="1710759532055" duration="85000" />
+      <workItem from="1710895030314" duration="31720000" />
+      <workItem from="1710983205690" duration="601000" />
+      <workItem from="1711007035991" duration="1249000" />
+      <workItem from="1711074805518" duration="2928000" />
+      <workItem from="1711104333227" duration="2284000" />
+      <workItem from="1711124815169" duration="733000" />
+      <workItem from="1711162810488" duration="5835000" />
+      <workItem from="1711446912151" duration="8602000" />
+      <workItem from="1711595070115" duration="1917000" />
+      <workItem from="1711678109677" duration="612000" />
+      <workItem from="1711803973130" duration="2008000" />
+      <workItem from="1712059919240" duration="1716000" />
+      <workItem from="1712393116560" duration="658000" />
+      <workItem from="1712450316585" duration="3623000" />
+      <workItem from="1712560077703" duration="220000" />
+      <workItem from="1713183918343" duration="762000" />
+      <workItem from="1713286749866" duration="583000" />
+      <workItem from="1713753283608" duration="33000" />
+      <workItem from="1715394124292" duration="837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transfomer/module/trans.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multi-steps/demo.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multi-steps/demo.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multi-steps-problem/model/seq2seq.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/am/model/models.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multi-steps-problem/demo.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/am/main_ml.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/am/utils/dataProcessing.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main/model/attention.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main/model/ablationExperiment.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main/dataset1-DL.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main/dataset1-DL.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main/dataset1-DL.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amaz-informer/models/encoder.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amaz-informer/models/model.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/work1$contrastExperiment.coverage" NAME="contrastExperiment Coverage Results" MODIFIED="1710928112060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/model" />
+    <SUITE FILE_PATH="coverage/work$embed_tcnAttention.coverage" NAME="embed-tcnAttention Coverage Results" MODIFIED="1700317207470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work$seq2seq.coverage" NAME="seq2seq Coverage Results" MODIFIED="1699371659383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multi-steps-problem/model" />
+    <SUITE FILE_PATH="coverage/work$tcnAttention_twoTower.coverage" NAME="tcnAttention-twoTower Coverage Results" MODIFIED="1700316138368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work1$plot.coverage" NAME="plot Coverage Results" MODIFIED="1710924009545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/utils" />
+    <SUITE FILE_PATH="coverage/work$dataProcessing.coverage" NAME="dataProcessing Coverage Results" MODIFIED="1709308002413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work1/utils" />
+    <SUITE FILE_PATH="coverage/work$ts_trans.coverage" NAME="ts-trans Coverage Results" MODIFIED="1700318758324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work1$main_.coverage" NAME="main_dataset1 Coverage Results" MODIFIED="1710582370241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work1$ML_dataset2.coverage" NAME="ML-dataset2 Coverage Results" MODIFIED="1710928123787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work$main_ml.coverage" NAME="main_ml Coverage Results" MODIFIED="1709346331835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work1" />
+    <SUITE FILE_PATH="coverage/work$temp.coverage" NAME="temp Coverage Results" MODIFIED="1700318341042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work$main___2_.coverage" NAME="main_深度学习 (2) Coverage Results" MODIFIED="1709363849976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work1" />
+    <SUITE FILE_PATH="coverage/work$ts_trans_keras.coverage" NAME="ts-trans-keras Coverage Results" MODIFIED="1700322547426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work1$DL_dataset2__1_.coverage" NAME="DL_dataset2 (1) Coverage Results" MODIFIED="1710928409627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work$gpt_s2s.coverage" NAME="gpt_s2s Coverage Results" MODIFIED="1699083742141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multi-step" />
+    <SUITE FILE_PATH="coverage/work1$my_informer.coverage" NAME="my-informer Coverage Results" MODIFIED="1712126002026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amaz-informer" />
+    <SUITE FILE_PATH="coverage/work$demo.coverage" NAME="demo Coverage Results" MODIFIED="1709434176484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work2" />
+    <SUITE FILE_PATH="coverage/work1$dataset1_ML__1_.coverage" NAME="dataset1-ML (1) Coverage Results" MODIFIED="1710934689267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work$main_.coverage" NAME="main_深度学习 Coverage Results" MODIFIED="1706283132939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work$plot__1_.coverage" NAME="plot (1) Coverage Results" MODIFIED="1708419652393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work1/utils" />
+    <SUITE FILE_PATH="coverage/work$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1699350353512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multi-steps-problem" />
+    <SUITE FILE_PATH="coverage/work$plot.coverage" NAME="plot Coverage Results" MODIFIED="1707103560592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/attn_twotwoer/utils" />
+    <SUITE FILE_PATH="coverage/work$my_informer.coverage" NAME="my-informer Coverage Results" MODIFIED="1699102510064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multi-step" />
+    <SUITE FILE_PATH="coverage/work$tcnAttention_lstm.coverage" NAME="tcnAttention-lstm Coverage Results" MODIFIED="1700318001928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work$trans_main.coverage" NAME="trans_main Coverage Results" MODIFIED="1698892300151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfomer" />
+    <SUITE FILE_PATH="coverage/work1$main_dataset1.coverage" NAME="main_dataset1 Coverage Results" MODIFIED="1710670517689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work$tcnProbAttention.coverage" NAME="tcnProbAttention Coverage Results" MODIFIED="1700318533630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work$tcn.coverage" NAME="tcn Coverage Results" MODIFIED="1698899916840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work1$dataset1_DL.coverage" NAME="dataset1-DL Coverage Results" MODIFIED="1711804069555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work$main___1_.coverage" NAME="main_深度学习 (1) Coverage Results" MODIFIED="1707103564991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/attn_twotwoer" />
+    <SUITE FILE_PATH="coverage/work$ml.coverage" NAME="ml对比实验 Coverage Results" MODIFIED="1700316492902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work$transfomer_keras.coverage" NAME="transfomer-keras Coverage Results" MODIFIED="1700318509365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work1$main_ml.coverage" NAME="main_ml Coverage Results" MODIFIED="1710920363777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work$attn_twotower.coverage" NAME="attn_twotower Coverage Results" MODIFIED="1701398306884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/model" />
+    <SUITE FILE_PATH="coverage/work$2.coverage" NAME="2 Coverage Results" MODIFIED="1700318071253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work1$main_dataset2.coverage" NAME="main_dataset2 Coverage Results" MODIFIED="1710906722755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work1$main_dataset1__1_.coverage" NAME="main_dataset1 (1) Coverage Results" MODIFIED="1710920061638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work1$shiyan.coverage" NAME="shiyan Coverage Results" MODIFIED="1710576691870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work$demo1.coverage" NAME="monica_seq2seq Coverage Results" MODIFIED="1699010897179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multi-step" />
+    <SUITE FILE_PATH="coverage/work$arima.coverage" NAME="arima Coverage Results" MODIFIED="1708418947420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work1/model" />
+    <SUITE FILE_PATH="coverage/work1$ML_dataset1__1_.coverage" NAME="ML-dataset1 (1) Coverage Results" MODIFIED="1710928873469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work$tcnAttention.coverage" NAME="tcnAttention Coverage Results" MODIFIED="1700317724515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/work1$dataset2_DL__1_.coverage" NAME="dataset2-DL (1) Coverage Results" MODIFIED="1710935905149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work1$dataset2_ML__1_.coverage" NAME="dataset2-ML (1) Coverage Results" MODIFIED="1710935761190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/work1$2.coverage" NAME="参考文献排序2 Coverage Results" MODIFIED="1713184042944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
